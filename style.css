@@ -55,3 +55,12 @@ span{
     background: #927878;
     cursor: pointer;
 }
+.resetbutton{
+    background-color: #4e0808;
+    width: 100px;
+    height: 20px;
+    color: aliceblue;
+}
+.resetbutton:hover{
+    background-color: #3b5e34;
+}
